@@ -1330,6 +1330,7 @@ Your commands could install updates, open your garage, run a script, or anything
 Open source plugins for metrics about your programming"
  - [WhoisFreaks MCP Server](https://mcp.pipedream.com/app/whoisfreaks) - Best Source For Domain WHOIS Database and API.
  - [ZeroBounce MCP Server](https://mcp.pipedream.com/app/zerobounce) - ZeroBounce is an email validation and deliverability platform helping more than 150,000 customers reduce bounces and land their emails in the inbox.
+ - [Zyla API Hub MCP Server](https://github.com/Zyla-Labs/mcp-server) - Access 7,500+ APIs through a unified MCP interface using a single `call_api` tool.
  - [Zoho Creator MCP Server](https://mcp.pipedream.com/app/zoho_creator) - Low-code platform
 
 ### <a name="entertainment"></a>Entertainment
